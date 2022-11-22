@@ -7,8 +7,8 @@
 
 ### Languages and tools
 <p>
-    <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/julia/julia-original-wordmark.svg" height=64 />
-    <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/python/python-original-wordmark.svg" height=64 />
+    <a href="https://julialang.org/"><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/julia/julia-original-wordmark.svg" height=64 /></a>
+    <a href="https://www.python.org/"><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/python/python-original-wordmark.svg" height=64 /></a>
     <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/c/c-original.svg" height=64 />
     <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/cplusplus/cplusplus-original.svg" height=64 />
     <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/docker/docker-original-wordmark.svg" height=64 />
