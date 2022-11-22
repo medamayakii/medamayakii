@@ -1,10 +1,9 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 
-<!-- リポジトリステータス -->
-[![hogehoge's github stats](https://github-readme-stats.vercel.app/api?username=medamayakii&hide=contribs&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/medamayakii/)
-
-<!-- ソースコード統計 -->
-[![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=medamayakii&layout=compact&theme=tokyonight)](https://github.com/medamayakii/)
+<p align="center"> 
+  <img alt="Top Langs" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=medamayakii&layout=compact&count_private=true&show_icons=true&theme=tokyonight&hide=jupyter%20notebook" />
+  <img alt="github stats" height="160px" src="https://github-readme-stats.vercel.app/api?username=medamayakii&count_private=true&show_icons=true&show_icons=true&theme=tokyonight" />
+</p>
 
 <!--
 **medamayakii/medamayakii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
